@@ -34,29 +34,44 @@ python rundcrnn.py
 
 ## 1、enviroment：
 python=3.6.6
+
 tensorflow=1.14
+
 pytorch=1.3.1
+
 scipy=1.5.2
+
 numpy=1.19.1
+
 pandas>=0.19.2
+
 tables
+
 statsmodels
+
 future
+
 pyyaml
+
 matplotlib
+
 
 ## config files of DCRNN:
 
 run with metr-la:
+
 /home/cseadmin/yindu/github/data/dcrnn-data/model/dcrnn_la.yaml
 
 run with pems-bay:
+
 /home/cseadmin/yindu/github/data/dcrnn-data/model/dcrnn_bay.yaml
 
 test with metr-la::
+
 /home/cseadmin/yindu/github/data/dcrnn-data/model/dcrnn_metrla_test_config.yaml
 
 test with pems-bay:
+
 /home/cseadmin/yindu/github/data/dcrnn-data/model/dcrnn_pemrbay_test_config.yaml
 
 
