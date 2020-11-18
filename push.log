@@ -1,0 +1,19 @@
+nohup: ignoring input
+Warning: Permanently added the RSA host key for IP address '192.30.255.113' to the list of known hosts.
+remote: warning: File data/dcrnn-data/METR-LA/test.npz is 69.02 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File data/dcrnn-data/PEMS-BAY/val.npz is 85.57 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File data/dcrnn-data/dcrnn_predictions_pytorch.npz is 79.30 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File data/dcrnn-data/metr-la.h5 is 54.40 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File data/stgcn-data/V_metrla.csv is 71.50 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File data/tgcn-data/V_pemsbay.csv is 80.82 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File data/stgcn-data/V_pemsbay.csv is 80.79 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+remote: error: Trace: f68a687e0238912463b41146ca3b2f3dbbfa95d6ba2431f94e0869ef57459ec1        
+remote: error: See http://git.io/iEPt8g for more information.        
+remote: error: File data/dcrnn-data/METR-LA/train.npz is 251.73 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File data/dcrnn-data/PEMS-BAY/test.npz is 170.47 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File data/dcrnn-data/pems-bay.h5 is 129.63 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File data/dcrnn-data/PEMS-BAY/train.npz is 593.57 MB; this exceeds GitHub's file size limit of 100.00 MB        
+To github.com:lixus7/urbancomputing.git
+ ! [remote rejected] master -> master (pre-receive hook declined)
+error: failed to push some refs to 'git@github.com:lixus7/urbancomputing.git'
