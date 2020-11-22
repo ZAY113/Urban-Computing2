@@ -5,10 +5,12 @@ BaiduNetdisk Url: 链接：https://pan.baidu.com/s/1fbIdwtW8GnyUgLPV_nnq3g 提�
 
 there are four folders in this project
 
-/data           （sava the data and some config files）        
-/save           （save the model paramter and some template model files）
+/data            （sava the data and some config files）
+
+/save            （save the model paramter and some template model files）
 
 /work-metrla     （work with METR-LA dataset）
+
 /work-pemsbay    （work with PEMS-BAY dataset）
 
 
